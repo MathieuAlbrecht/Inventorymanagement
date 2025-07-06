@@ -1,0 +1,15 @@
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/bin/Debug/net9.0/Inventorymanagement
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/bin/Debug/net9.0/Inventorymanagement.deps.json
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/bin/Debug/net9.0/Inventorymanagement.runtimeconfig.json
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/bin/Debug/net9.0/Inventorymanagement.dll
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/bin/Debug/net9.0/Inventorymanagement.pdb
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.AssemblyInfoInputs.cache
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.AssemblyInfo.cs
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.csproj.CoreCompileInputs.cache
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.sourcelink.json
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.dll
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/refint/Inventorymanagement.dll
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.pdb
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/Inventorymanagement.genruntimeconfig.cache
+/Users/mathieu/Library/CloudStorage/OneDrive-BBBaden/BBB/Jahr_2/ILA/Inventorymanagement/Inventorymanagement/obj/Debug/net9.0/ref/Inventorymanagement.dll
